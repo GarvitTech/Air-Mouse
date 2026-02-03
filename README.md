@@ -23,9 +23,9 @@ Turn your hand movements into a virtual 3D controller and replace your tradition
 ---
 
 ## 📂 Project Structure
-/Arduino_Code
+/Arduino
 
-/Python_Code
+/Python
 
 README.md
 
